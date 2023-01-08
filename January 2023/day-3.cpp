@@ -3,6 +3,7 @@
 https://leetcode.com/problems/delete-columns-to-make-sorted/
 
 Input: strs = ["cba","daf","ghi"]
+
 Output: 1
 Explanation: The grid looks as follows:
   cba
